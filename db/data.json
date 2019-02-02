@@ -1,1 +1,1 @@
-[{"descripcion":"Correr parque","completado":false},{"descripcion":"Pasear al perro","completado":"false"}]
+[{"description":"Comprar pastel","status":false},{"description":"Pasear perro","status":true},{"description":"Ir a correr","status":false}]
